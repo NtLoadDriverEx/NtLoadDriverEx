@@ -7,15 +7,15 @@ I am a problem-solver. I am quick to grasp new ideas, and adept at programming, 
 ---
 
 ### Languages and Software Expereince
-C++/C 
-x86_64 Assembly
-Windows Win32 API and Kernel API
-Rust
-Linux/unix environments
-GUI Desktop Applications
-C# .Net and Mono applications
-Unreal Engine 
-Unity Engine
+* C++/C 
+* x86_64 Assembly
+* Windows Win32 API and Kernel API
+* Rust
+* Linux/unix environments
+* GUI Desktop Applications
+* C# .Net and Mono applications
+* Unreal Engine 
+* Unity Engine
 
 
 #
